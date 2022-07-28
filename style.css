@@ -42,3 +42,12 @@ footer {
     font-size: 35px;
     margin-left: 20px;
 }
+
+
+@media only screen and (max-width:600px) {
+
+
+    .flex {
+        flex-direction: column;
+    }
+}
