@@ -8,6 +8,13 @@ ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
     display: flex;
 }
 
+section {
+    margin-top: 100px;
+}
+
+.container {
+    margin-top: 50px;
+}
 
 .moreBtn {
     text-align: center;
