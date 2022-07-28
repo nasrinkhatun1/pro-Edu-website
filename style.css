@@ -1,0 +1,37 @@
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    display: flex;
+    margin: auto;
+    letter-spacing: 2px;
+}
+
+.product {
+    display: flex;
+}
+
+
+.moreBtn {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+.footerText {
+    text-align: center;
+    background: #242424;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.fbicon {
+    font-size: 35px;
+    margin-left: 20px;
+}
